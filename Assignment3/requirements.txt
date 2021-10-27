@@ -1,0 +1,1 @@
+It is required to install pyjwt, flask, sqlalchemy, psycopg2 before using this code
